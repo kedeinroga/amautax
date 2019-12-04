@@ -226,7 +226,7 @@ label {
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background: #000;
+	background: #008080;
 	-webkit-transform: scaleX(0);
 	transform: scaleX(0);
 	-webkit-transform-origin: 50%;
@@ -2389,7 +2389,7 @@ label {
 }
 .newsletter-wrap {
 	text-align: center;
-	background: #fff;
+	background: #ccc;
 	padding: 54px 40px;
 	margin-bottom: 30px;
 }
